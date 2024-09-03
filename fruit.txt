@@ -4,4 +4,8 @@ orange
 bannana
 peach
 lemon
+<<<<<<< HEAD
 date
+=======
+kiwi
+>>>>>>> f62d75f489bcd6da04d0c24e0447d71b1d953a2c
